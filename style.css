@@ -39,7 +39,7 @@ form{width:90%}
 .dropdown,.nav-menu,.navbar input{display:none}
 [id^=btn]:checked+ul{display:block}
 .nav-menu{position:absolute;top:99%}
-.drop-item a,.nav-item a,.show{color:#000;text-decoration:none;font-size:1.2rem;line-height:3;display:block;text-align:center}
+.drop-item a,.nav-item a,.show{color:#01002c;text-decoration:none;font-size:1.2rem;line-height:3;display:block;text-align:center}
 .drop-item a{margin-left:8%;font-size:1rem}
 .nav-menu a:hover,.show:hover{color:#009de0}
 .image-index{position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;height:650px}
@@ -107,7 +107,7 @@ body{margin-top:17%}
 .dropdown,.nav-menu,.navbar input{display:none}
 [id^=btn]:checked+ul{display:block}
 .nav-menu{position:absolute;top:98%}
-.drop-item a,.nav-item a,.show{color:#000;text-decoration:none;font-size:1.2rem;line-height:2.5}
+.drop-item a,.nav-item a,.show{text-decoration:none;font-size:1.2rem;line-height:2.5}
 .drop-item a{margin-left:8%;font-size:1.1rem}
 .image-index{background-size:cover;background-position:center;background-repeat:no-repeat;height:350px;position:relative;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
 #nos-valeurs,#prestation,#realisation,.histoire{margin-top:15%}
