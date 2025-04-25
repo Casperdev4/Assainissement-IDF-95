@@ -19,7 +19,7 @@ p{color:#01002c;font-size:19px;margin-left:5%;margin-right:5%;text-align:center;
 form{width:90%}
 .histoire{background-color:#fff;padding:2% 0;width:95%;margin:10% auto;border-radius: 15px;border: solid 2px #01002c;}
 .histoire h4,.histoire p{color:#01002c}
-#tarif{background-color:#fff;padding:2%;width:80%;margin:10% auto;border: solid 2px #01002c;}
+#tarif{background-color:#fff;padding:2%;width:80%;margin:10% auto;border: solid 2px #01002c;border-radius: 15px;}
 #tarif h2,#tarif h3,#tarif p{color:#01002c}
 #tarif p{text-align:left;color: #01002c;}
 .valeur h3,.valeur h4{margin-bottom:0;color:#01002c;text-align:left}
