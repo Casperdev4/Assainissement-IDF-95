@@ -16,7 +16,7 @@ function contient_cyrillique($texte) {
 }
 
 function est_numero_valide($numero) {
-    return preg_match('/^(06|07|\+336|\+337)\d{8}$/', $numero);
+    return preg_match('/^(01|09|06|07|\+336|\+337)\d{8}$/', $numero);
 }
 
 $nom = htmlspecialchars($_POST['nom'], ENT_QUOTES, 'UTF-8');
